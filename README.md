@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sikandarsubhani
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++ Basics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Game Development.
+- 🌱 I’m currently learning C++ Graphics (SFML).
+- 💞️ I’m looking to collaborate on Game development.
 - 📫 Reach me at msikandargujjar@gmail.com
 
 <!---
