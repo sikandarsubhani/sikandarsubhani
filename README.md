@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sikandarsubhani
-- 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning C++ Graphics (SFML).
-- 💞️ I’m looking to collaborate on Game development.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Flask (Python Framework) and SQL.
+- 💞️ I’m looking to collaborate on Web development.
 - 📫 Reach me at msikandargujjar@gmail.com
 
 <!---
