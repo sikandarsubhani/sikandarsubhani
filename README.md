@@ -1,5 +1,39 @@
-# 💫 About Me:
-💫 About Me<br><br>👋 Hi, I’m SIKANDAR — a Full Stack Developer with a strong focus on Next.js and React.js. I’m passionate about building fast, scalable, and intelligent web applications that balance clean architecture with great user experience.<br><br>I enjoy turning ideas into functional, elegant solutions — whether that’s crafting responsive interfaces, optimizing backend workflows, or integrating AI to make products smarter.<br><br>👷 Currently Working On<br><br>Full-stack web applications using Next.js, React, and Node.js.<br><br>Refining modern development practices — from component-driven UI design to performance-focused builds.<br><br>🤝 Open to Collaborate On<br><br>Open-source projects built with Next.js or React, especially those exploring cutting-edge web performance and user experience.<br><br>Projects that combine AI and web technologies for real-world impact.<br><br>🌱 Currently Learning<br><br>Advanced system design, scalable infrastructure, and containerized deployment using Docker and cloud platforms.<br><br>Modern rendering techniques like Server Components, ISR, and Edge Functions.<br><br>💬 Ask Me About<br><br>Building Next.js apps with clean, scalable architecture.<br><br>End-to-end development workflows and integration of AI-powered features into web products.<br><br>⚡ Fun Fact<br><br>Before diving deep into the JavaScript ecosystem, I built an AI-driven skincare recommendation system and a Python-based automation tool that tracked and managed bills — complete with CAPTCHA-solving intelligence.
+# 💫 About Me
+
+👋 Hi, I’m **SIKANDAR** — a **Full Stack Developer** with a strong focus on **Next.js** and **React.js**.  
+I’m passionate about building fast, scalable, and intelligent web applications that balance clean architecture with great user experience.  
+
+I enjoy turning ideas into functional, elegant solutions — whether that’s crafting responsive interfaces, optimizing backend workflows, or integrating AI to make products smarter.  
+
+---
+
+### 👷 Currently Working On
+- **Full-stack web applications** using **Next.js**, **React**, and **Node.js**  
+- Refining modern development practices — from component-driven UI design to performance-focused builds  
+
+---
+
+### 🤝 Open to Collaborate On
+- **Open-source projects** built with **Next.js** or **React**, especially those exploring cutting-edge web performance and user experience  
+- Projects that combine **AI** and **web technologies** for real-world impact  
+
+---
+
+### 🌱 Currently Learning
+- **Advanced system design**, scalable infrastructure, and containerized deployment using **Docker** and **cloud platforms**  
+- Modern rendering techniques like **Server Components**, **ISR**, and **Edge Functions**  
+
+---
+
+### 💬 Ask Me About
+- Building **Next.js** apps with clean, scalable architecture  
+- End-to-end development workflows and integration of **AI-powered features** into web products  
+
+---
+
+### ⚡ Fun Fact
+Before diving deep into the JavaScript ecosystem, I built an **AI-driven skincare recommendation system** and a **Python-based automation tool** that tracked and managed bills — complete with **CAPTCHA-solving intelligence**.  
+
 
 
 ## 🌐 Socials:
