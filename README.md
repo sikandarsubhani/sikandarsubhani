@@ -66,6 +66,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [**apifreaks.com**](https://apifreaks.com) | API marketplace platform — 15+ REST APIs, 50+ reusable components, auth & payments | Next.js · TypeScript · Node.js · PostgreSQL |
+| [**af-openapi-specs**](https://github.com/api-freaks/af-openapi-specs) | Official OpenAPI specs for all APIFreaks APIs — Geolocation, WHOIS, DNS, SSL, Currency, Commodity, Domain, ZIP Code, Screenshot, Timezone, User Agent, PDF & Astronomy — published as JSON, YAML & Markdown | TypeScript · OpenAPI |
 | [**AI Skincare Recommendation System**](https://github.com/sikandarsubhani/Skincare_Recommendation) | Deep-learning app that detects skin conditions from images (95% accuracy) and recommends treatment | TensorFlow · Flask · React · OpenCV |
 | [**PropertyPulse**](https://github.com/sikandarsubhani/PropertyPulse) | Full-stack real estate listing platform | Next.js · MongoDB |
 
