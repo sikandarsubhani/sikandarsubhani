@@ -16,6 +16,7 @@
 - 🌍 Previously built web apps for UK-based clients at **Webotist Technologies Ltd**
 - 🎓 BSCS, University of Lahore — thesis: **AI Skincare Recommendation System** (TensorFlow/Keras, 95% accuracy)
 - 🛠️ I work across the stack: React/Next.js on the frontend, Node.js/Python on the backend, and I like automating repetitive things away
+- 🍴 Maintain [**widdershins-reborn**](https://github.com/sikandarsubhani/widdershins-reborn), a fork of [Mermade/widdershins](https://github.com/Mermade/widdershins) (OpenAPI/Swagger, AsyncAPI & Semoasa → Slate-compatible markdown)
 - 📫 Reach me at **sikandarsubhani37@gmail.com**
 
 ---
@@ -67,17 +68,14 @@
 | [**apifreaks.com**](https://apifreaks.com) | API marketplace platform — 15+ REST APIs, 50+ reusable components, auth & payments | Next.js · TypeScript · Node.js · PostgreSQL |
 | [**AI Skincare Recommendation System**](https://github.com/sikandarsubhani/Skincare_Recommendation) | Deep-learning app that detects skin conditions from images (95% accuracy) and recommends treatment | TensorFlow · Flask · React · OpenCV |
 | [**PropertyPulse**](https://github.com/sikandarsubhani/PropertyPulse) | Full-stack real estate listing platform | Next.js · MongoDB |
-| [**PDF Unlocker**](https://github.com/sikandarsubhani/pdf_unlocker) | Web app to detect, unlock and preview password-protected PDFs | Flask · Python |
-| [**JobTracker Chrome Extension**](https://github.com/sikandarsubhani/job_tracker_ext) | Browser extension for tracking job applications and interviews | JavaScript · Chrome APIs |
-| [**OpenCV Playground**](https://github.com/sikandarsubhani/OpenCV) | Computer vision experiments and learning notebooks | Python · OpenCV |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sikandarsubhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikandarsubhani&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=sikandarsubhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=sikandarsubhani&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
